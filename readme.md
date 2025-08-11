@@ -1,3 +1,5 @@
+#This is my local repo.
+<br>
 init command: used to create a new git repo
 <br>
 git remote add origin "link": used to set the origin where the add/commit/push changes are to be made
